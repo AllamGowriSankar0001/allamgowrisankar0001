@@ -41,9 +41,6 @@ I am a **MERN stack developer** with hands-on experience in building real-world 
 - Full-stack MERN application with **separate frontend and backend architecture**  
 - Dynamic scheduling and management system  
 
-### **MERN Authentication App**  
-- Secure authentication system using **JWT and protected routes**  
-- User session management and role-based access control  
 
 ### **Pizza Hub**  
 - React-based **food ordering interface** with reusable components  
@@ -52,12 +49,6 @@ I am a **MERN stack developer** with hands-on experience in building real-world 
 ### **Frontend Mini Projects**  
 - Rebuilt **HTML, CSS, JS projects** following modern best practices  
 - Focused on **clean UI and maintainable code**  
-
----
-
-## Achievements & Certifications
-- Completed **MERN Stack Development** certification  
-- Successfully deployed projects on **Render and Netlify**  
 
 ---
 
