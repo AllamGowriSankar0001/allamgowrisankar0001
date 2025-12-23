@@ -37,11 +37,6 @@ I am a **MERN stack developer** with hands-on experience in building real-world 
 
 ## Projects
 
-### **Timetable Management System**  
-- Full-stack MERN application with **separate frontend and backend architecture**  
-- Dynamic scheduling and management system  
-
-
 ### **Pizza Hub**  
 - React-based **food ordering interface** with reusable components  
 - Fully responsive design and dynamic UI elements  
