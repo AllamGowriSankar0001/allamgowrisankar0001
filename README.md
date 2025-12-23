@@ -57,8 +57,7 @@ I am a **MERN stack developer** with hands-on experience in building real-world 
 
 ## Achievements & Certifications
 - Completed **MERN Stack Development** certification  
-- Participated in **Hackathons and Coding Competitions**  
-- Successfully deployed projects on **Heroku and Netlify**  
+- Successfully deployed projects on **Render and Netlify**  
 
 ---
 
